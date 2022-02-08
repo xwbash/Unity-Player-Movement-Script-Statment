@@ -1,4 +1,4 @@
-# Unity-Player-Movement-Script-Statment
-(Unity-Player-Script) I created this with statments.
+# Unity-Statment-Script
+(Unity-Statment-Script) I created this with statments & oop.
 
-My first fully coded player movement script & statment script.
+My first fully coded player movement script & statment scripts.
